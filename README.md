@@ -11,9 +11,9 @@ The dataset on video game usage and releases from 1980 to 2020.
 
 ## Project execution
 
-- Data Engineering: Cleaned data, ensured correct data types, and created necessary features (e.g., game age).
+- *Data Engineering*: Cleaned data, ensured correct data types, and created necessary features (e.g., game age).
   
-- Visualization Choices:
+- *Visualization Choices*:
 
   -  Bar Chart: Used for visualizing quantities across categories with horizontal bars to quickly convey data ranks.
   -  Scatterplot: Chosen to show the correlation between North American and Japanese sales, making it easy to interpret correlations.
@@ -22,7 +22,7 @@ The dataset on video game usage and releases from 1980 to 2020.
   -  Word Cloud: Employed to represent the frequency of words, highlighting the proportion of 'Unknown' data effectively.
   -  Strip Plot: Utilized to compare 'Platform' categories without overlap, showing distribution and sales data clearly while adding visual variety.
 
-- Design Decisions for Visualizations: Considering an audience of CTOs aged 35 to 60 who favor clear and straightforward visuals, I focused on large, legible text and high-contrast colors to enhance readability. The design features a consistent blue color palette, uniform font style and size, and standardized titles placed centrally at the top to convey information efficiently.
+- *Design Decisions for Visualizations*: Considering an audience of CTOs aged 35 to 60 who favor clear and straightforward visuals, I focused on large, legible text and high-contrast colors to enhance readability. The design features a consistent blue color palette, uniform font style and size, and standardized titles placed centrally at the top to convey information efficiently.
 
  
 ## Results and Conclusion
