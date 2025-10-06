@@ -1,6 +1,6 @@
 ## Introduction
 
-I this project is created a ficticius scenario in which a retail company needs to analyze a video game dataset to inform their sales strategy, accompanied by a distinct, clear visualization, all created using Python.
+In this project is created a ficticius scenario in which a retail company needs to analyze a video game dataset to inform their sales strategy, accompanied by a distinct, clear visualization, all created using Python.
 
 ## Objective
 To analyze video game sales and releases, derive actionable insights, and develop a range of visualizations to enhance stakeholders' understanding and support informed decision-making
